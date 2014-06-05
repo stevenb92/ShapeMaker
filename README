@@ -11,7 +11,7 @@ Then check the classes have been generated
 $ ls shape.java output.java shape.class output.class
 
 Run on Linux/MacOS
-I have already Create class files for those that do not want to edit the code and just want to run the application. Navigate to the Classes folder in a terminal window and simply type.
+I have already class files for those that do not want to edit the code and just want to run the application. Navigate to the Classes folder in a terminal window and simply type.
 
 $ java shape
 
@@ -20,3 +20,5 @@ The program window should now pop up on your screen!.
 How to use
 Enter your desired height, width and x/y co-ordinates in the text boxes, then click on the shape you want to generate (rectangle or oval) as shown here
 A new JFrame window will pop up showing a shape with the dimensions and co-ordinates you specified in the previous window. The previous window will also now display the value of the area f the shape you just drew! example output
+
+This was used to teach matt git!
